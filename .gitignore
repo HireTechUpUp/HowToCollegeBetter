@@ -1,0 +1,11 @@
+ref/
+.DS_Store
+# 内部工作文件，不公开
+docs/
+preview.html
+research/tasks/
+research/review-*.md
+research/01-*.md
+research/02-*.md
+research/03-*.md
+research/04-*.md
